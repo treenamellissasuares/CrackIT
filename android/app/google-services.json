@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "432576131550",
+    "project_id": "newcrackit",
+    "storage_bucket": "newcrackit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432576131550:android:10cafcb4388e36b375ad4f",
+        "android_client_info": {
+          "package_name": "com.example.crackit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432576131550-bars966p78n6nm05ppjeqorl1elauu63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crackit",
+            "certificate_hash": "9acf6f79137016d31400ee7d03c8738a622299a7"
+          }
+        },
+        {
+          "client_id": "432576131550-i4v13pa9untsupu5rr89s4q0tlbkuv6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CEfHSBdk20T1YNACf_00YtFu4KYKGoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432576131550-i4v13pa9untsupu5rr89s4q0tlbkuv6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
